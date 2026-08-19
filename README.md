@@ -5,6 +5,7 @@ The project investigates the calibration of a 4×4 Velostat pressure-sensing arr
 
 ## Project information
 **Author:** Padma Michela Ricca
+**Student Number:** 25166236
 **Dissertation Title:** 
 **Programme:** MSc Artificial Intelligence for Biomedicine and Healthcare  
 **Department:** Department of Computer Science, University College London (UCL)
