@@ -7,10 +7,10 @@ The project investigates the calibration of a 4×4 Velostat pressure-sensing arr
 **Author:** Padma Michela Ricca  
 **Student Number:** 25166236  
 **Dissertation Title:** Temporal Learning-Based Calibration of a Velostat Pressure-Sensing Array: Mitigating Inherent Artefacts Towards Pressure Ulcer Risk Monitoring in Comatose Patients  
+**Supervisor:** Dr Ben Oldfrey  
 **Programme:** MSc Artificial Intelligence for Biomedicine and Healthcare  
 **Department:** Department of Computer Science, University College London (UCL)  
-**Module Code:** COMP0192  
-**Supervisor:** Dr Ben Oldfrey  
+**Module Code:** COMP0192    
 **Academic Year:** 2025/26
 
 ## Repository contents
