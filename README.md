@@ -20,7 +20,6 @@ The project investigates the calibration of a 4×4 Velostat pressure-sensing arr
 
 ## Dataset
 The dataset contains 12 formal acquisition sessions, with 54 acquisition units per session.  
-
 Data collection uses the recorded sensor channels together with the corresponding nominal pressure and spatial ground-truth labels.  
 
 The original dataset structure is retained so that the integrity checks and session-level analysis implemented in the notebook can be reproduced directly.
