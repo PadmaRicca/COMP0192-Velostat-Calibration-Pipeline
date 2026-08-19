@@ -1,6 +1,5 @@
 # COMP0192-Velostat-Calibration-Pipeline
-This repository contains the data and analysis pipeline developed for my MSc dissertation within the UCL MSc Artificial Intelligence for Biomedicine and Healthcare programme.
-
+This repository contains the data and analysis pipeline developed for my MSc dissertation within the UCL MSc Artificial Intelligence for Biomedicine and Healthcare programme.  
 The project investigates the calibration of a 4×4 Velostat pressure-sensing array. The notebook covers the complete analysis workflow, from loading and checking the experimental data to model selection, final held-out evaluation and additional sensor-specific analyses.
 
 ## Project information
@@ -21,7 +20,6 @@ The project investigates the calibration of a 4×4 Velostat pressure-sensing arr
 ## Dataset
 The dataset contains 12 formal acquisition sessions, with 54 acquisition units per session.  
 Data collection uses the recorded sensor channels together with the corresponding nominal pressure and spatial ground-truth labels.  
-
 The original dataset structure is retained so that the integrity checks and session-level analysis implemented in the notebook can be reproduced directly.
 
 ## Analysis pipeline
