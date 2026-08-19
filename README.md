@@ -4,13 +4,13 @@ This repository contains the data and analysis pipeline developed for my MSc dis
 The project investigates the calibration of a 4×4 Velostat pressure-sensing array. The notebook covers the complete analysis workflow, from loading and checking the experimental data to model selection, final held-out evaluation and additional sensor-specific analyses.
 
 ## Project information
-**Author:** Padma Michela Ricca
-**Student Number:** 25166236
+**Author:** Padma Michela Ricca  
+**Student Number:** 25166236  
 **Dissertation Title:** Temporal Learning-Based Calibration of a Velostat Pressure-Sensing Array: Mitigating Inherent Artefacts Towards Pressure Ulcer Risk Monitoring in Comatose Patients 
 **Programme:** MSc Artificial Intelligence for Biomedicine and Healthcare  
-**Department:** Department of Computer Science, University College London (UCL)
-**Module Code:** COMP0192 
-**Supervisor:** Dr Ben Oldfrey   
+**Department:** Department of Computer Science, University College London (UCL)  
+**Module Code:** COMP0192  
+**Supervisor:** Dr Ben Oldfrey  
 **Academic Year:** 2025/26
 
 ## Repository contents
