@@ -19,9 +19,9 @@ The project investigates the calibration of a 4×4 Velostat pressure-sensing arr
 - `.gitignore` — excludes temporary Python and Jupyter files from version control.
 
 ## Dataset
-The dataset contains 12 formal acquisition sessions, with 54 acquisition units per session.
+The dataset contains 12 formal acquisition sessions, with 54 acquisition units per session.  
 
-Data collection uses the recorded sensor channels together with the corresponding nominal pressure and spatial ground-truth labels.
+Data collection uses the recorded sensor channels together with the corresponding nominal pressure and spatial ground-truth labels.  
 
 The original dataset structure is retained so that the integrity checks and session-level analysis implemented in the notebook can be reproduced directly.
 
@@ -60,7 +60,9 @@ The pipeline uses Python 3 and the following main packages:
 PyTorch uses a CUDA-enabled GPU when available and falls back to the CPU otherwise.
 
 ## Reproducibility
-Random seeds used during model development and final evaluation are defined explicitly in the notebook. Model selection is performed using chronological forward validation, preserving the temporal ordering of the experimental sessions before final held-out evaluation.
+Random seeds used during model development and final evaluation are defined explicitly in the notebook.  
+Model selection is performed using chronological forward validation, preserving the temporal ordering of the experimental sessions before final held-out evaluation.
 
 ## Use and licensing
-This repository is currently provided for academic review and reproducibility of the dissertation work. No open-source licence has been selected; therefore, standard copyright applies.
+This repository is currently provided for academic review and reproducibility of the dissertation work.  
+No open-source licence has been selected; therefore, standard copyright applies.
