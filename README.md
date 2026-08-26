@@ -62,4 +62,4 @@ Model selection is performed using chronological forward validation, preserving 
 
 ## Use and licensing
 This repository is currently provided for academic review and reproducibility of the dissertation work.  
-No open-source licence has been selected; therefore, standard copyright applies.
+No open-source license has been selected, therefore, standard copyright applies.
