@@ -13,7 +13,7 @@ The project investigates the calibration of a 4×4 Velostat pressure-sensing arr
 **Academic Year:** 2025/26
 
 ## Repository contents
-- `Velostat_Calibration_Pipeline.ipynb` — notebook containing the complete calibration and modeling pipeline.
+- `Velostat_Calibration_Pipeline.ipynb` — notebook containing the complete calibration and modelling pipeline.
 - `data.zip` — experimental dataset collected separately during the study and subsequently used by the notebook, available from the `Releases` section of this repository.
 - `.gitignore` — excludes temporary Python and Jupyter files from version control.
 
